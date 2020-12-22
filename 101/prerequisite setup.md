@@ -8,7 +8,7 @@ Kita akan menyediakan Platform Ujian Penembusan (*Pen-Test Attack Platform*) bag
     (https://www.virtualbox.org/wiki/Downloads)
 
 2. Muat turun Ubuntu image melalui laman web berikut dan loadkan ke dalam VirtualBox atau VMPlayer (kita akan menggunakan OS Ubuntu 18 sebagai attack platform)
-   ([Ubuntu 18.04 VM Images | Ubuntu 18.04 VirtualBox Image | Ubuntu 18.04 VMware Image](https://www.linuxvmimages.com/images/ubuntu-1804/))
+   ([Ubuntu 18.04 VMware Image](https://www.linuxvmimages.com/images/ubuntu-1804/))
 
 3. Loadkan / import **image Ubuntu 18** yang telah dimuat turun seperti dalam langkah 2 ke dalam VirtualBox atau VMPlayer. *Default credentials* bagi OS Ubuntu berkenaan adalah seperti berikut: 
    
